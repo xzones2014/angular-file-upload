@@ -46,9 +46,9 @@ var app = angular.module('my-app', [
 ```
 
 ## Demos
-1. [Simple example](http://nervgh.github.io/pages/angular-file-upload/examples/simple)
-2. [Uploads only images (with canvas preview)](http://nervgh.github.io/pages/angular-file-upload/examples/image-preview)
-3. [Without bootstrap example](http://nervgh.github.io/pages/angular-file-upload/examples/without-bootstrap)
+1. [Simple example](https://xzones2014.github.io/angular-file-upload/examples/simple)
+2. [Uploads only images (with canvas preview)](https://xzones2014.github.io/angular-file-upload/examples/image-preview)
+3. [Without bootstrap example](https://xzones2014.github.io/angular-file-upload/examples/without-bootstrap)
 
 ## More Info
 
